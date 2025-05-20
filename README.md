@@ -3,6 +3,8 @@
 # vass_captures
 https://www.instagram.com/vass_captures/ found in: Brave Browser Home Background
 
-# S. Moore Visuals
+# Spencer Moore
+profile: https://500px.com/p/smoorevisuals?view=photos
+
 ## Gallery: Nature
-https://www.smoorevisuals.com/landscapes
+Home: https://www.smoorevisuals.com/landscapes
